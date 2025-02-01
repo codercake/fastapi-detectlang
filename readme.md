@@ -72,8 +72,11 @@ The API returns a structured JSON response** with:
 Performance Insights
 - Returns an HTTP/1.1 200 OK response  
 - Efficient TCP connection handling at `127.0.0.1:8000`  
-- Ensures a clean request-response cycle with **minimal latency**  
+- Ensures a clean request-response cycle with minimal latency
 
 Final Thoughts
 This API is designed to efficiently process handwritten text in local languages, analyze its structure, and provide meaningful feedback. So, next time I don't have to explain it to my north-indian friend about a sign board that says to not litter, I can just point her to this API.
+
+<img width="1679" alt="Screenshot 2025-02-01 at 17 46 03" src="https://github.com/user-attachments/assets/5279fddc-7940-4c96-b72c-14be43a45a08" />
+
 
